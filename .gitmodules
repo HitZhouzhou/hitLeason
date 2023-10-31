@@ -1,0 +1,9 @@
+[submodule "HITSZ-OpenCS"]
+	path = HITSZ-OpenCS
+	url = ./HITSZ-OpenCS
+[submodule "SecondYearFirstSemester"]
+	path = SecondYearFirstSemester
+	url = ./SecondYearFirstSemester
+[submodule "mynote"]
+	path = mynote
+	url = ./mynote
